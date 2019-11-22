@@ -1,0 +1,29 @@
+Programming:
+
+1. How to stable sort an array of elements putting all the zeros at the front?
+
+2. Subset sum problem
+
+
+
+
+Math Questions:
+
+--------------------------------------------------------------------------------------
+First Round									     |
+--------------------------------------------------------------------------------------
+
+1. Smallest number where the product of the digits are 10000?
+
+2. There is a bear next to a river. Every time a fish swims past it there is a 1/2 chance that it catches the fish and eats it. After eating 3 fish though it is done eating. What is the probability that you survive if you are the fourth fish?
+
+3. There is a bag with 4 blue marbles and 3 red marbles. Every time you pick a blue out of the bag you get a dollar, red you lose a dollar. You dont replace the marbles grabbed and you can stop at any point. How much money would you pay for this game?
+--------------------------------------------------------------------------------------
+Second Round									     |
+--------------------------------------------------------------------------------------
+
+1. We are playing a game with a 10 sided die and all we have is a 6 sided die. How can you use this die to play the game in as few rolls as possible?
+
+2. You are given a 30 sided die. Every time you roll you get the money on the die. The game ends when you roll a number that shares a common factor with any of the previous rolls, ie. 1, 2, 4 [ends because 4]. What is the largest sum you can obtain in this game? [The sum doesn't matter as much, what are the numbers?]
+
+3. We have a game where you win when there are two more heads and you lose when there are two more tails. You initially bet 10$ (win 10 or lose 10). At any point you can double the bet before the coin flip. How much would you pay for the game?

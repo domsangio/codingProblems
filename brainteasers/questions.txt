@@ -4,7 +4,9 @@ Programming:
 
 2. Subset sum problem
 
+3. 2D array where each is an elevation, find where they flood
 
+4. Array of umbrella sizes, a person limit, find the minimum number of umbrellas used
 
 
 Math Questions:
@@ -27,3 +29,6 @@ Second Round									     |
 2. You are given a 30 sided die. Every time you roll you get the money on the die. The game ends when you roll a number that shares a common factor with any of the previous rolls, ie. 1, 2, 4 [ends because 4]. What is the largest sum you can obtain in this game? [The sum doesn't matter as much, what are the numbers?]
 
 3. We have a game where you win when there are two more heads and you lose when there are two more tails. You initially bet 10$ (win 10 or lose 10). At any point you can double the bet before the coin flip. How much would you pay for the game?
+
+
+Probability that dealing 52 cards, each person (4) gets exactly one Ace
